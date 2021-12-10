@@ -1,1 +1,1 @@
-console.log('Thaís')
+console.log('Thaís');
